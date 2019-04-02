@@ -1,0 +1,16 @@
+---
+title: Tags
+layout: default
+tags: [test, test2]
+---
+
+<article class="tag">
+  <h2>Tags</h2>
+  <ul class="post-list">
+  {% for tag in page.tags %}
+    <li style="margin:0">
+      <a href="/tags/{{ tag }}/" class="tag-entry">{{ tag }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+</article>

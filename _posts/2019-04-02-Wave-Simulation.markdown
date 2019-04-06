@@ -14,18 +14,17 @@ pattern when there are multiple sources.
 One of the typical examples is the interference of two-dimensional waves from 2
 point sources. (For the sake of simplicity, the energy dissipation due to
 increasing length of wavefront is neglected.) According to the text book and
-observation from experiment, such two wave source will produce the following
+observation from experiment, such sources will produce the following
 interference pattern.
 
 ![](/img/wave/interference.png)
 
 The alternating pattern between fainter and darker areas are the result of
-destructive interference and constructive interference. In fact, because these
-patterns form lines extending from roughly the center of the two sources and
-propagate outward. They are called **nodal lines** and **antinodal lines**.
-But why are these lines where they are? And how many of them should present?
-To answer these questions, I decided to make a simulation to see if I can
-reproduce them.
+destructive and constructive interference. In fact, because these patterns form
+lines extending from roughly the center of the two sources and propagate
+outward. They are called **nodal lines** and **antinodal lines**. But why are
+these lines where they are? And how many of them should present? To answer these
+questions, I decided to make a simulation to see if I can reproduce them.
 
 ## Wave Equation
 At first, I thought it would be good to start with wave equation.

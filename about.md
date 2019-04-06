@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to lewisxy's personal blog! The content of this blog are mostly
+something that I personally find interesting and would like to share with the
+Internet audience. As my personal interest focus primarily on science and
+technology, so is this blog. You will read topics about math, physics, computer
+science, and new technologies. Please feel free to share articles you find
+interesting from this blog and subscribe if you wish.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Have Questions?
+I have not yet add the comment functionality of the blog, but it may be added
+later. If you have any questions you can contact me via the email displayed at
+the end of the page, or open an issue in [Github][gh].
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[gh]:https://github.com/lewisxy/lewisxy.github.io
